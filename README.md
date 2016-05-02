@@ -1,2 +1,2 @@
-# vagrant_boxes
+# Vagrant boxes
 Assorted Vagrantfiles for development
